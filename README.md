@@ -1,147 +1,286 @@
-## 🏁 Internship Details
+# 🌐 Pranav Sadwelkar — Developer Portfolio
 
-**COMPANY**: CODETECH IT SOLUTIONS
-
-**NAME**: PRANAV V SADWELKAR
-
-**INTERN ID**: CT04DR2516
-
-**DOMAIN**: SOFTWARE DEVELOPMENT
-
-**DURATION**: 4 WEEKS
-
-**MENTOR**: NEELA SANTOSH KUMAR
-
-
----
-`Task-01 - Personal_Portfolio/README.md`
----
-
-## 📌 Task-01: Personal Portfolio Website
-
-A **responsive personal portfolio website** developed as part of **Task-01** for the **CODTECH Internship Program**.
-This project showcases my profile, skills, education, projects, and contact information using a clean and modern UI.
+A modern and fully responsive developer portfolio website designed to showcase my technical skills, certifications, projects, and journey as a Computer Science & Engineering student focused on Linux, DevOps, backend development, and scalable software solutions.
 
 ---
 
-## 👨‍💻 About the Project
+## 🚀 Live Portfolio
 
-This portfolio website is designed to present my professional and academic profile in a structured manner.
-It highlights my journey as a **Computer Science and Engineering student** aspiring to become a **Software Engineer & DevOps Engineer**.
-
-The website is fully responsive and built using **pure frontend technologies**.
+🔗 https://pranav-1205.github.io/My_Portfolio/
 
 ---
 
-## 🛠️ Tech Stack Used
+# ✨ Portfolio Highlights
 
-* **HTML5** – Structure and content
-* **CSS3** – Styling and responsive layout
-* **JavaScript (Vanilla JS)** – Interactivity
-* **Font Awesome** – Icons and social links
-* **EmailJS** – Contact form email functionality
+- Modern minimalist UI design
+- Fully responsive layout
+- Smooth navigation between sections
+- Interactive project showcase
+- Technical skills categorization
+- Certifications section
+- Education timeline
+- Contact form integration
+- Social media integration
+- Professional developer branding
 
 ---
 
-## 📂 Project Structure
+# 🖥️ Sections Included
 
-```
-Task-01 - Personal_Portfolio/
+## 🏠 Home
+- Professional landing page
+- Developer introduction
+- RHCSA certification highlight
+- Navigation shortcuts
+
+## 🛠️ Skills & Technologies
+Categorized technical stack including:
+
+### Linux & DevOps
+- RHCSA Certified
+- Linux Administration
+- Shell Scripting
+- Git & GitHub
+- Podman
+- OpenShift Fundamentals
+- Docker Basics
+- CI/CD Fundamentals
+
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+
+### Programming Languages
+- Python
+- C
+- Java
+
+---
+
+## 💼 Projects
+
+Featured projects include:
+
+### 🔐 Certificate Verification
+Blockchain / Web3 based application for certificate validation.
+
+### 📚 REST API For Library Management System
+Backend application with API-based library management features.
+
+### 📝 Note App
+Cybersecurity-focused secure note management application.
+
+### 🛒 Scribble Heaven E-Commerce Website
+Full-stack e-commerce web application.
+
+### 💻 Creating Own Shell
+Custom shell implementation inspired by operating system concepts.
+
+### 🤝 Collaboration Coding Platform
+Real-time collaborative coding application using WebSockets.
+
+---
+
+## 📜 Certifications
+
+### ✅ RHCSA — Red Hat Certified System Administrator
+- Certified with perfect score: **300/300**
+- Strong Linux administration skills
+- Networking
+- Shell scripting
+- Storage management
+- System services
+
+### 📘 Currently Pursuing
+#### Red Hat OpenShift Development I (DO180)
+Learning:
+- Containers
+- Podman
+- OpenShift fundamentals
+- Enterprise Linux
+- DevOps practices
+
+---
+
+## 🎓 Education
+
+### Bachelor of Engineering in Computer Science
+**2022 – Present**
+
+Currently pursuing Computer Science & Engineering while strengthening Linux system administration and backend development skills.
+
+### Higher Secondary Education (Science)
+**2020 – 2022**
+
+Built strong analytical and problem-solving foundations in science and mathematics.
+
+### Secondary School Education
+**2010 – 2020**
+
+Completed secondary education with strong academic fundamentals.
+
+---
+
+# 🎨 Design Features
+
+- Minimal grayscale theme with orange accent highlights
+- Professional typography
+- Structured section layouts
+- Card-based content design
+- Large hero typography
+- Clean border aesthetics
+- Responsive spacing system
+
+---
+
+# ⚙️ Tech Stack
+
+## Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+## Development Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📂 Project Structure
+
+```bash
+My_Portfolio/
 │
-├── index.html          # Home page
-├── about.html          # About me section
-├── skills.html         # Skills & proficiency
-├── projects.html       # Projects showcase
-├── education.html      # Education details
-├── contact.html        # Contact form
-│
-├── assets/
-│   ├── css/
-│   │   └── styles.css  # Main stylesheet
-│   ├── js/
-│   │   └── script.js   # JavaScript logic
-│   └── img/
-│       ├── profile.png
-│       ├── about.jpg
-│       └── project-02.jpeg
-│
+├── assets/              # Images and portfolio assets
+├── css/                 # Stylesheets
+├── js/                  # JavaScript files
+├── index.html           # Main entry point
 └── README.md
 ```
 
 ---
 
-## ✨ Features
+# 🚀 Getting Started
 
-* ✅ Fully responsive design
-* ✅ Multi-page navigation
-* ✅ Skills section with progress bars
-* ✅ Projects showcase section
-* ✅ Education timeline
-* ✅ Contact form with EmailJS integration
-* ✅ Social media integration (GitHub, LinkedIn, Instagram, YouTube)
+## Clone the Repository
 
----
+```bash
+git clone https://github.com/pranav-1205/My_Portfolio.git
+```
 
-## 🖥️ Pages Overview
+## Navigate to Project Folder
 
-* **Home** – Introduction and career objective
-* **About Me** – Personal background and goals
-* **Skills** – Technical skills with proficiency levels
-* **Projects** – Highlighted academic & personal projects
-* **Education** – Academic timeline
-* **Contact Me** – Email and phone contact with message form
+```bash
+cd My_Portfolio
+```
 
----
-Output:
+## Run the Portfolio
 
-<table border="0">
-   <tr>
-      <td><img width="1902" height="936" alt="Screenshot 2025-12-31 184848" src="https://github.com/user-attachments/assets/d48aec2f-d88c-428f-9774-0532c2aae2c8" /></td>
-      <td><img width="1898" height="933" alt="Screenshot 2025-12-31 184856" src="https://github.com/user-attachments/assets/bb8d2f2e-0363-4498-9fd8-025d389677d8" /></td>
-   </tr>
-   <tr>
-      <td><img width="1902" height="937" alt="Screenshot 2025-12-31 184908" src="https://github.com/user-attachments/assets/62f520eb-84a5-46bc-aa99-bb643366f024" /></td>
-      <td><img width="1901" height="936" alt="Screenshot 2025-12-31 184925" src="https://github.com/user-attachments/assets/110fb664-1fc3-4dd5-ab81-a7391a356085" /></td>
-   </tr>
-   <tr>
-      <td><img width="1899" height="935" alt="Screenshot 2025-12-31 184935" src="https://github.com/user-attachments/assets/c05e7238-97c8-48c2-bd44-9a30f7072687" /></td>
-      <td><img width="1903" height="936" alt="Screenshot 2025-12-31 184944" src="https://github.com/user-attachments/assets/639acfe2-7330-4e99-b348-be87fa36d805" /></td>
-   </tr>
-</table>
+Simply open:
 
+```bash
+index.html
+```
 
----
-## 🚀 How to Run the Project Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/pranav-1205/Codtech_Interneship.git
-   ```
-
-2. Navigate to Task-01:
-
-   ```bash
-   cd Codtech_Interneship/Task-01\ -\ Personal_Portfolio
-   ```
-
-3. Open `index.html` in your browser
-   *(No server required)*
+OR use **Live Server** in VS Code for a better development experience.
 
 ---
 
-## 📬 Contact Information
+# 📸 Portfolio Preview
 
-* **Name:** Pranav Sadwelkar
-* **Email:** [sadwelkarpranav12@gmail.com](mailto:sadwelkarpranav12@gmail.com)
-* **GitHub:** [https://github.com/pranav-1205](https://github.com/pranav-1205)
-* **LinkedIn:** [https://www.linkedin.com/in/pranav-sadwelkar-b0b593348](https://www.linkedin.com/in/pranav-sadwelkar-b0b593348)
+## Home Page
+Professional developer landing section with personal branding and introduction.
+
+## Skills Section
+Categorized technical expertise display.
+
+## Projects Section
+Featured development projects with technology focus.
+
+## Certifications Section
+Professional certifications and ongoing technical learning.
+
+## About Me
+Detailed introduction and career aspirations.
+
+## Education Timeline
+Academic journey and qualifications.
+
+## Contact Section
+Direct communication form and social links.
+
 ---
 
-## 📜 License
+# 👨‍💻 About Me
 
-This project is created for **educational and internship purposes**.
-You are free to modify and enhance it for learning.
+I am a Computer Science and Engineering student from Mumbai, India, passionate about Linux systems, DevOps, backend development, and scalable software engineering.
+
+I actively build projects that strengthen my understanding of:
+- Linux administration
+- Backend systems
+- DevOps workflows
+- System programming
+- Real-world deployment practices
+
+My goal is to build efficient, scalable, and impactful software solutions while continuously improving my infrastructure and development skills.
 
 ---
 
+# 📬 Connect With Me
+
+## GitHub
+https://github.com/pranav-1205
+
+## LinkedIn
+Add your LinkedIn profile here
+
+## Instagram
+Add your Instagram profile here
+
+## Email
+sadwelkarpranav12@gmail.com
+
+---
+
+# ⭐ Future Improvements
+
+- Dark mode support
+- Project filtering system
+- Blog integration
+- Animated transitions
+- Backend-powered contact form
+- Deployment analytics
+- Downloadable resume section
+
+---
+
+# 🤝 Contributing
+
+Contributions, ideas, and feedback are welcome.
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+# 🙌 Acknowledgements
+
+Inspired by:
+- Modern portfolio websites
+- Developer communities
+- Open-source UI inspirations
+- Professional DevOps portfolio layouts
