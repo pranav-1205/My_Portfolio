@@ -22,7 +22,10 @@
         <header class="header">
             <nav class="nav">
                 <a href="index.html" class="nav-logo center">Pranav</a>
-                <div class="nav-menu center">
+                <div class="nav-menu center" id="nav-menu">
+                    <div class="nav-close" id="nav-close">
+                        <i class="fa-solid fa-xmark"></i>
+                    </div>
                     <ul class="nav-list">
                         <li class="nav-item">
                             <a href="index.html" class="nav-link ">Home</a>
@@ -68,7 +71,7 @@
                         <i class="fa-brands fa-youtube"></i>
                     </a>
                 </div>
-                <div class="nav-toggle">
+                <div class="nav-toggle" id="nav-toggle">
                     <i class="fa-solid fa-bars"></i>
                 </div>
             </nav>
@@ -131,8 +134,10 @@
         </footer>
     </main>
 
-    <!-- Email JS -->
+    <!-- Nav JS -->
+    <script src="assets/js/script.js"></script>
 
+    <!-- Email JS -->
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 
     <!-- Main JS -->
