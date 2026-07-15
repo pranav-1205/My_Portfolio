@@ -712,6 +712,8 @@ svg {
     font-size: 3rem;
     color: var(--first-color);
     flex-shrink: 0;
+    height: auto;
+    object-fit: contain;
 }
 
 .cert-title {
